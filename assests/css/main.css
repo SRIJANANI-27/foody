@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400..900&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Playfair Display", serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  color: orangered;
+}
+
+.btn {
+  background-color: rgba(255, 68, 0, 0.785);
+}
+.btn:hover {
+  background-color: rgba(255, 68, 0, 0.785);
+  color: white;
+}/*# sourceMappingURL=main.css.map */
